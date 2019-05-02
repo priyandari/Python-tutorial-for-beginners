@@ -1,0 +1,3 @@
+Isi baris pertama
+kemudian baris kedua
+dan terakhir baris ketiga
