@@ -6,7 +6,7 @@
 
 <a href="https://github.com/priyandari/Python-tutorial-for-beginners/blob/master/week_02%20Diagram%20Alir.ipynb"> Week 02 Diagram Alir</a>
 
-<a href="https://github.com/priyandari/Python-tutorial-for-beginners/blob/tutorial2021/week_02_Pseudocode.pdf"> Week 02 Pseudocode</a>
+<a href="https://github.com/priyandari/Python-tutorial-for-beginners/blob/tutorial2021/week_02_Pseudocode.pdf"> Week 02 Penulisan Pseudocode</a>
 
 <a href="https://github.com/priyandari/Python-tutorial-for-beginners/blob/master/week_03%20Instalasi%20dan%20IDLE.ipynb"> Week 03 Instalasi dan IDLE</a>
 
